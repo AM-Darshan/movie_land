@@ -10,7 +10,7 @@ Its a React App where you can search for movies
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
 
 
-# Getting Started with Create React App
+## Getting Started with Create React App
 
 In the project directory, you can run:
 
